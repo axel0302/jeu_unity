@@ -20,3 +20,7 @@ rad.json
 *.flf
 #Test results file
 TestResults.xml
+jeu/Logs
+jeu/Temp
+jeu/Library
+jeu/UserSettings
